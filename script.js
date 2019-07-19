@@ -76,6 +76,9 @@
 // }
 
 
+
+
+
 let telefone = prompt("Digite seu numero de celular");
 
 if (telefone.length == 9 && telefone[0] == 9){
